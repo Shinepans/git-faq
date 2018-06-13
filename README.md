@@ -2,6 +2,14 @@
 
 > Some notes of using of git
 
+Keywords: 
+
+- Git FAQ
+- Use of Git
+- Git Reset Recover
+- Git Remove Some Commits
+- Git Multi Github Account
+
 ## Git
 
 - [Git official website](https://git-scm.com/)
@@ -116,7 +124,6 @@ git cherry-pick HASH2
 |      | **git reset [file]** | PASS |Unstages the file, but preserve its contents|
 |      | **git commit -m "[descriptive message]"** | PASS |Records file snapshots permanently in version history|
 |Branch| **git branch** | PASS |Lists all local branches in the current repository|
-|      | **** | PASS ||
 |      | **git branch [branch-name]** | PASS |Creates a new branch|
 |      | **git checkout [branch-name]** | PASS |Switches to the specified branch and updates the working directory|
 |      | **git merge [branch]** | PASS |Combines the specified branch’s history into the current branch|
